@@ -1,5 +1,6 @@
 
 ## 🧾 Examples of Arabic Image Captioning  
+## 8
 This image demonstrates the model’s ability to generate a **caption in Arabic** that accurately describes the visual content using deep learning techniques.
 
 <img src="https://github.com/mohamedsherif301/NLP_Project/blob/main/imgs/CaptionAR.png" width="500"/>
@@ -69,3 +70,4 @@ If you want to contribute to the project, you can:
 🎯 **Developer:** [Mohamed Sherif](https://github.com/mohamedsherif301)  
 📅 **Last Update:** `April 2025`  
 📧 **Email:** myore122@gmail.com
+
